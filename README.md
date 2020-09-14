@@ -22,7 +22,7 @@ Dabbling in Mathematics 𝚺 and Chemistry ⚛ too!
 - 語 Picking up new languages
     - 从小学到高中，我学了十年中文！(Chinese)
     - 二年前から今まで自分で日本語を勉強しています (Japanese)
-    - Latium in alta schola noveram.
+    - Latium in alta schola studebam.
     - And of course, I know english!
 - 🎮 Hopelessly obsessed with video games
     - Top 500 Dota 2

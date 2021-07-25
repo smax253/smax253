@@ -8,9 +8,9 @@ Dabbling in Mathematics 𝚺 and Chemistry ⚛ too!
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smax253&layout=compact)](https://github.com/smax253)
 
 ### More about me
-- 🎒 On campus, I'm working at the [Sharma Lab](https://www.sharmalab.org/) for Medicinal Chemistry, and TAing for CS 334: Automata and Computation, and CS 385: Algorithms.
-- 🔭 I’m currently working on a Discord bot to help manage my office hours.
-- 🌱 I’m currently learning all about Javascript before I move onto Typescript and Go!
+- 🎒 On campus, I'm TAing for CS 385: Algorithms next semester!
+- 🔭 I’m currently looking for a new project to start, to begin after my internship.
+- 🌱 I’m currently learning all about Javascript frameworks before I move onto Typescript and Go!
 - 💬 Ask me about the best international travel hacks and advice.
 - 📫 How to reach me: `{my github username}(at)gmail.com`
 - 😄 Pronouns: He, him, his

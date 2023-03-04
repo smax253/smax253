@@ -1,6 +1,8 @@
 # Hi there, I'm Max! 👋
 I am a fullstack software developer at Orchard🏡 in NYC!
 
+Visit my website here! [maxshi.me](https://maxshi.me/)
+
 [![Max's Github Stats](https://github-readme-stats.vercel.app/api?username=smax253&count_private=true)](https://github.com/smax253)
 
 ### My Tech Stack

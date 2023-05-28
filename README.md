@@ -1,5 +1,5 @@
 # Hi there, I'm Max! 👋
-I am a fullstack software developer at Orchard🏡 in NYC!
+I am a fullstack software developer based in Jersey City, NJ at Paradigm🏥!
 
 Visit my website here! [maxshi.me](https://maxshi.me/)
 
@@ -9,6 +9,6 @@ Visit my website here! [maxshi.me](https://maxshi.me/)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smax253&layout=compact)](https://github.com/smax253)
 
 ### More about me
-- 💼 I am just getting started at Orchard!
+- 💼 I am just getting started at Paradigm!
 - 📫 How to reach me: `{my github username}(at)gmail.com`
 - 😄 Pronouns: He, him, his

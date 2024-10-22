@@ -1,5 +1,5 @@
 # Hi there, I'm Max! 👋
-I am a fullstack software developer based in Jersey City, NJ at Paradigm🏥!
+I am a fullstack software developer based in Brooklyn, NY!
 
 Visit my website here! [maxshi.me](https://maxshi.me/)
 
